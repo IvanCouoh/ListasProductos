@@ -1,0 +1,29 @@
+[
+    {
+        "imageProduct": "https://http2.mlstatic.com/D_Q_NP_2X_738483-MLA40075406547_122019-G.webp", 
+        "description": "Huawei Y9 prime con muchas más caracteristicas", 
+        "price": 1490, 
+        "discount": 25, 
+        "priceTagFraction": 300, 
+        "priceTag": "Sin interes", 
+        "shipping": "Envio Gratis"
+    },
+    {
+        "imageProduct": "https://http2.mlstatic.com/D_Q_NP_2X_738483-MLA40075406547_122019-G.webp", 
+        "description": "Huawei Y9 prime con muchas más caracteristicas", 
+        "price": 1490, 
+        "discount": 25, 
+        "priceTagFraction": 300, 
+        "priceTag": "Sin interes", 
+        "shipping": "Envio Gratis"
+    },
+    {
+        "imageProduct": "https://http2.mlstatic.com/D_Q_NP_2X_738483-MLA40075406547_122019-G.webp", 
+        "description": "Huawei Y9 prime con muchas más caracteristicas", 
+        "price": 1490, 
+        "discount": 25, 
+        "priceTagFraction": 300, 
+        "priceTag": "Sin interes", 
+        "shipping": "Envio Gratis"
+    }
+]
