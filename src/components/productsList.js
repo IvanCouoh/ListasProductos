@@ -28,7 +28,7 @@ const ListProd = styled.div`
     /* border-bottom: ridge; */
     border-top-style: outset;
     font-size: 14px;
-    background: #fff;
+    background-color: rgb(78, 78, 78) !important;
 `;
 
 const ProcutImage = styled.img`
